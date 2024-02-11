@@ -10,7 +10,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=SinghRobinKumar&theme=light&hide_border=false) 
   
   </div> &emsp;
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="right" style="width: 50%" /></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" /></div>
 </div>
 
 ## 🏆 GitHub Trophies
