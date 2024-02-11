@@ -3,12 +3,12 @@
 # 📊 GitHub Stats:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SinghRobinKumar&show_icons=true&count_private=true&hide_border=true" align="center"/></div> <br/>
 
-<div style="display:flex">
+<div style="display:flex;position:relative">
   <div align="left"> 
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=SinghRobinKumar&theme=light&hide_border=false)
   </div> &emsp;
-  <div align="right" style="margin-top:-400px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" style="width:45%" /></div>
+  <div align="right" style="position:absolute;top:0px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" style="width:45%" /></div>
 </div>
 
 ## 🏆 GitHub Trophies
