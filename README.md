@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 <div><img src="https://github-readme-stats.vercel.app/api?username=SinghRobinKumar&show_icons=true&count_private=true&hide_border=true" /></div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SinghRobinKumar&theme=light&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=SinghRobinKumar&theme=light&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRobinKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ## 🏆 GitHub Trophies
