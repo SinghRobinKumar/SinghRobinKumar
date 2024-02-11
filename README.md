@@ -3,7 +3,7 @@
 # 📊 GitHub Stats:
 <div style="display:flex;justify-content:between">
   <img src="https://github-readme-stats.vercel.app/api?username=SinghRobinKumar&show_icons=true&count_private=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" style="height:194px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" style="height:194px;width:100%" />
 </div> <br/>
 
 <div align="center">
